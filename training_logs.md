@@ -16,6 +16,8 @@
 | 21 *(Dolly)* | 4.3854     |
 | 22 *(Dolly)* | 4.0501     |
 | 23 *(Dolly)* | 3.9165     |
+| 21 *(Wiki~)* | 3.4774     |
 
 
 *Note: The dolly used for training the model led to a drastic decline in the knowledge it had gained from it's previous epochs...so the current working model is that of Epoch 20*
+*Note: Wiki~ stands for Wikipedia*
